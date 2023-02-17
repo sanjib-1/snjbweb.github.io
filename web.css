@@ -1,0 +1,48 @@
+body{
+font-family:Bahnschrift;
+margin:0;
+padding:0;
+}
+.hd{ position:relative;
+bottom:1045px;
+text-align:center ;
+}
+h1,h2,p,a{
+color:ghostwhite;
+text-decoration:none;
+}
+h1{text-align:left;
+font-size:50px;
+left:30px;
+}
+h2{
+font-size:35px;
+}
+#hd{ position:relative;
+top:210px;	
+}
+p{position:relative;
+text-align:right;
+right:50px;
+bottom:225px;
+}
+#downloadButton {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+
+font-family:Bahnschrift;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#downloadButton:active {
+  position: relative;
+  top: 2px;
+}
+
